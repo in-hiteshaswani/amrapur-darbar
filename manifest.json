@@ -1,0 +1,22 @@
+{
+  "name": "Amrapur Darbar | Prem Prakash Mandal",
+  "short_name": "Amrapur",
+  "description": "Official Website of Prem Prakash Ashram",
+  "display": "standalone",
+  "background_color": "#FBE3D9",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

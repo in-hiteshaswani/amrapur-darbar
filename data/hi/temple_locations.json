@@ -1,0 +1,62 @@
+[
+  {
+    "address": "अमरापुर अस्थान, श्री प्रेम प्रकाश आश्रम, मिर्जा इस्माइल (एम.आई.) रोड, सिंधी कैम्प, जयपुर, राजस्थान 302001",
+    "phone": ["+91 141 237 2423", "+91 141 237 2424"],
+    "lat": "26.918476",
+    "lng": "75.800068",
+    "location": "जयपुर",
+    "latlng_url": "https://www.google.com/maps?q=26.918476,75.800068&z=19",
+    "map_url": "https://maps.app.goo.gl/9ZK6V5HqzktDv6vp9",
+    "image_url": "/images/locations/amrapur_jaipur.jpg"
+  },
+  {
+    "address": "प्रेम प्रकाश आश्रम, भागीरथी नगर, भूपटवाला, हरिद्वार, मोतीचुर रेंज, उत्तराखंड 249411",
+    "phone": ["01334 260 815"],
+    "lat": "29.97191",
+    "lng": "78.17835",
+    "location": "हरिद्वार",
+    "latlng_url": "https://www.google.com/maps?q=29.97191,78.17835&z=19",
+    "map_url": "https://maps.app.goo.gl/WRT4XaJiJ5EfexCp7",
+    "image_url": "/images/locations/amrapur_haridwar.jpg"
+  },
+  {
+    "address": "प्रेम प्रकाश आश्रम, स्वामी टेऊँराम नगर, नाना चिलोड़ा रोड, सतगुरु टेऊँराम मार्ग, कोतरपुर, अहमदाबाद, गुजरात 382340",
+    "phone": [],
+    "lat": "23.09328",
+    "lng": "72.65901",
+    "location": "अहमदाबाद",
+    "latlng_url": "https://www.google.com/maps?q=23.09328,72.65901&z=19",
+    "map_url": "https://maps.app.goo.gl/5GXaQ9ndSzRmNcQv5",
+    "image_url": "/images/locations/amrapur_ahmedabad.avif"
+  },
+  {
+    "address": "प्रेम प्रकाश आश्रम, मंदिर रोड, गोपी कॉलोनी, पुराना फरीदाबाद, फरीदाबाद, हरियाणा 121002",
+    "phone": ["08375039402"],
+    "lat": "28.42115",
+    "lng": "77.31842",
+    "location": "फरीदाबाद",
+    "latlng_url": "https://www.google.com/maps?q=28.42115,77.31842&z=19",
+    "map_url": "https://maps.app.goo.gl/fBQjjN9bUmQR1CLx6",
+    "image_url": "/images/locations/amrapur_faridabad.jpg"
+  },
+  {
+    "address": "प्रेम प्रकाश धाम (सिंधी मंदिर) - श्री सतनाम साक्षी मंदिर, C, 2 ब्लॉक, स्वामी जयप्रकाश मार्ग, C-1 ब्लॉक, मलका गंज, दिल्ली 110007",
+    "phone": [],
+    "lat": "28.67764",
+    "lng": "77.20883",
+    "location": "दिल्ली",
+    "latlng_url": "https://www.google.com/maps?q=28.67764,77.20883&z=19",
+    "map_url": "https://maps.app.goo.gl/YPM5bBekN3sA4jQc7",
+    "image_url": "/images/locations/amrapur_delhi.jpg"
+  },
+  {
+    "address": "प्रेम प्रकाश भवन, पुराना नंबर: 46 और 47, वेस्ट मड़ा स्ट्रीट, 16 और 17 के सामने, वल्लुवर कोट्टम हाई रोड, नुंगमबक्कम, चेन्नई, तमिलनाडु 600034",
+    "phone": ["09500051873"],
+    "lat": "13.06053",
+    "lng": "80.24083",
+    "location": "चेन्नई",
+    "latlng_url": "https://www.google.com/maps?q=13.06053,80.24083&z=19",
+    "map_url": "https://maps.app.goo.gl/k9vuYfS9a5nPhpZSA",
+    "image_url": "/images/locations/amrapur_chennai.jpg"
+  }
+]
