@@ -1,27 +1,17 @@
 [
   {
+    "place": "Lucknow",
+    "event": "",
+    "date": "March\n27 - 28\n2025"
+  },
+  {
+    "place": "Kanpur",
+    "event": "",
+    "date": "March\n29 - 30\n2025"
+  },
+  {
     "place": "Prayagraj",
-    "event": "Kumbh Mela",
-    "date": "January\n01 - 10\n2025"
-  },
-  {
-    "place": "Jaipur",
     "event": "",
-    "date": "January\n13 - 17\n2025"
-  },
-  {
-    "place": "Haridwar",
-    "event": "",
-    "date": "January\n18 - 19\n2025"
-  },
-  {
-    "place": "Ahmedabad",
-    "event": "",
-    "date": "January\n21\n2025"
-  },
-  {
-    "place": "Ajmer",
-    "event": "",
-    "date": "January\n25 - 29\n2025"
+    "date": "March 31 -\n April 2\n2025"
   }
 ]
