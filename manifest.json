@@ -2,6 +2,7 @@
   "name": "Amrapur Darbar | Prem Prakash Mandal",
   "short_name": "Amrapur",
   "description": "Official Website of Prem Prakash Ashram",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#FBE3D9",
   "theme_color": "#FFFFFF",
