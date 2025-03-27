@@ -1,10 +1,5 @@
 [
   {
-    "place": "Jaipur",
-    "event": "",
-    "date": "March\n25 - 26\n2025"
-  },
-  {
     "place": "Lucknow",
     "event": "",
     "date": "March\n27 - 28\n2025"
@@ -30,14 +25,24 @@
     "date": "April\n04 - 05\n2025"
   },
   {
-    "place": "Jalgaon",
+    "place": "Haridwar",
     "event": "",
-    "date": "April\n12 - 13\n2025"
+    "date": "April\n06 - 07\n2025"
   },
   {
     "place": "Akola",
     "event": "",
-    "date": "April\n14 - 15\n2025"
+    "date": "April\n09 - 10\n2025"
+  },
+  {
+    "place": "Jalgaon",
+    "event": "",
+    "date": "April\n11 - 12\n2025"
+  },
+  {
+    "place": "Haridwar",
+    "event": "",
+    "date": "April\n13 - 14\n2025"
   },
   {
     "place": "Yavatmal",
