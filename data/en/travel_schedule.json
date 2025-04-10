@@ -1,17 +1,12 @@
 [
   {
-    "place": "Akola",
-    "event": "",
-    "date": "April\n09 - 10\n2025"
-  },
-  {
     "place": "Jalgaon",
     "event": "",
     "date": "April\n11 - 12\n2025"
   },
   {
     "place": "Haridwar",
-    "event": "",
+    "event": "Inauguration of Mata Krishna Udhyan",
     "date": "April\n13 - 14\n2025"
   },
   {
@@ -43,5 +38,10 @@
     "place": "Ratlam",
     "event": "",
     "date": "April\n28 - 29\n2025"
+  },
+  {
+    "place": "Bhopal",
+    "event": "",
+    "date": "April\n30\n2025"
   }
 ]
