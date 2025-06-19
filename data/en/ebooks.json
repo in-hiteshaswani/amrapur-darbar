@@ -1,5 +1,59 @@
 [
   {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "Aarti and Chalisa Collection",
+    "author": "",
+    "image_url": "/images/ebooks/aarti-and-chalisa-collection.png",
+    "book_url": "/ebooks/aarti-and-chalisa-collection.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "A Brief Biography and Writings of Satguru Swami Teoonram Ji Maharaj (Part 1)",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-1.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-1.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "A Brief Biography and Writings of Satguru Swami Teoonram Ji Maharaj (Part 2)",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-2.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-2.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "A Brief Biography and Writings of Satguru Swami Teoonram Ji Maharaj (Part 3)",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-3.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-3.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "A Brief Biography and Writings of Satguru Swami Teoonram Ji Maharaj (Part 4)",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-4.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-4.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "Inspiring Incidents from the Life of Satguru Swami Teoonram Ji Maharaj",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-marmik-jeevan-prasang.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-marmik-jeevan-prasang.pdf"
+  },
+  {
     "date": "30",
     "year": "2025",
     "month": "March",
@@ -27,9 +81,27 @@
     "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-40-jeevan-prasang.pdf"
   },
   {
-    "date": "30",
+    "date": "19",
     "year": "2025",
-    "month": "March",
+    "month": "June",
+    "title": "Guru Prathnashtak",
+    "author": "",
+    "image_url": "/images/ebooks/guru-prathnashtak.png",
+    "book_url": "/ebooks/guru-prathnashtak.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "Prem Prakash Sandesh (May 2025)",
+    "author": "",
+    "image_url": "/images/ebooks/prem-prakash-sandesh-may-2025.png",
+    "book_url": "/ebooks/prem-prakash-sandesh-may-2025.pdf"
+  },
+  {
+    "date": "20",
+    "year": "2025",
+    "month": "May",
     "title": "Prem Prakash Sandesh (April 2025)",
     "author": "",
     "image_url": "/images/ebooks/prem-prakash-sandesh-april-2025.png",

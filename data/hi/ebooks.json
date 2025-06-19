@@ -1,9 +1,63 @@
 [
   {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "आरती एवं चालीसा संग्रह",
+    "author": "",
+    "image_url": "/images/ebooks/aarti-and-chalisa-collection.png",
+    "book_url": "/ebooks/aarti-and-chalisa-collection.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "सद्‌गुरु स्वामी टेऊँराम जी महाराज का संक्षिप्त जीवन परिचय एवं लेख (भाग-1)",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-1.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-1.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "सद्‌गुरु स्वामी टेऊँराम जी महाराज का संक्षिप्त जीवन परिचय एवं लेख (भाग-2)",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-2.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-2.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "सद्‌गुरु स्वामी टेऊँराम जी महाराज का संक्षिप्त जीवन परिचय एवं लेख (भाग-3)",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-3.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-3.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "सद्‌गुरु स्वामी टेऊँराम जी महाराज का संक्षिप्त जीवन परिचय एवं लेख (भाग-4)",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-4.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-sankshipt-jeevan-parichay-part-4.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "युगपुरुष आचार्य सद्‌गुरु स्वामी टेऊॅंराम जी महाराज के जीवन से जुड़े मार्मिक प्रसंग",
+    "author": "monu_ram_sai_ji",
+    "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-marmik-jeevan-prasang.png",
+    "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-marmik-jeevan-prasang.pdf"
+  },
+  {
     "date": "30",
     "year": "2025",
     "month": "March",
-    "title": "सद्गुरू स्वामी टेऊँराम जी महाराज के जीवन से जुड़े 108 पावन प्रसंग",
+    "title": "सद्‌गुरु स्वामी टेऊँराम जी महाराज के जीवन से जुड़े 108 पावन प्रसंग",
     "author": "monu_ram_sai_ji",
     "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-108-jeevan-prasang.png",
     "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-108-jeevan-prasang.pdf"
@@ -12,7 +66,7 @@
     "date": "3",
     "year": "2025",
     "month": "June",
-    "title": "सद्गुरू स्वामी टेऊँराम महिमा",
+    "title": "सद्‌गुरु स्वामी टेऊँराम महिमा",
     "author": "monu_ram_sai_ji",
     "image_url": "/images/ebooks/satguru-swami-teoonram-mahima.png",
     "book_url": "/ebooks/satguru-swami-teoonram-mahima.pdf"
@@ -21,15 +75,33 @@
     "date": "3",
     "year": "2025",
     "month": "June",
-    "title": "सद्गुरू स्वामी टेऊँराम जी महाराज के जीवन से जुड़े 40 पावन प्रसंग",
+    "title": "सद्‌गुरु स्वामी टेऊँराम जी महाराज के जीवन से जुड़े 40 पावन प्रसंग",
     "author": "monu_ram_sai_ji",
     "image_url": "/images/ebooks/satguru-swami-teoonram-ji-maharaj-40-jeevan-prasang.png",
     "book_url": "/ebooks/satguru-swami-teoonram-ji-maharaj-40-jeevan-prasang.pdf"
   },
   {
-    "date": "30",
+    "date": "19",
     "year": "2025",
-    "month": "March",
+    "month": "June",
+    "title": "गुरु प्रार्थनाष्टक",
+    "author": "",
+    "image_url": "/images/ebooks/guru-prathnashtak.png",
+    "book_url": "/ebooks/guru-prathnashtak.pdf"
+  },
+  {
+    "date": "19",
+    "year": "2025",
+    "month": "June",
+    "title": "प्रेम प्रकाश सन्देश (मई 2025)",
+    "author": "",
+    "image_url": "/images/ebooks/prem-prakash-sandesh-may-2025.png",
+    "book_url": "/ebooks/prem-prakash-sandesh-may-2025.pdf"
+  },
+  {
+    "date": "20",
+    "year": "2025",
+    "month": "May",
     "title": "प्रेम प्रकाश सन्देश (अप्रैल 2025)",
     "author": "",
     "image_url": "/images/ebooks/prem-prakash-sandesh-april-2025.png",
