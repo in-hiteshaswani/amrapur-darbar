@@ -1,7 +1,42 @@
 [
   {
+    "place": "Jaipur",
+    "event": "",
+    "date": "25 - 27\nJune"
+  },
+  {
     "place": "Ajmer",
-    "event": "Satguru Swami Teoonram Ji Maharaj Punyatithi Utsav",
-    "date": "May 29\n-\n01 जून\n2025"
+    "event": "",
+    "date": "27 - 30\nJune"
+  },
+  {
+    "place": "Delhi",
+    "event": "",
+    "date": "01\nJuly"
+  },
+  {
+    "place": "Mumbai",
+    "event": "",
+    "date": "02\nJuly"
+  },
+  {
+    "place": "Nashik",
+    "event": "",
+    "date": "03 - 04\nJuly"
+  },
+  {
+    "place": "Mumbai",
+    "event": "",
+    "date": "05 - 06\nJuly"
+  },
+  {
+    "place": "Lonavala",
+    "event": "",
+    "date": "07\nJuly"
+  },
+  {
+    "place": "Jaipur",
+    "event": "Guru Purnima Utsav",
+    "date": "09 - 10\nJuly"
   }
 ]
