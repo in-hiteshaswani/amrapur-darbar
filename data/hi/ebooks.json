@@ -111,15 +111,6 @@
     "date": "20",
     "year": "2025",
     "month": "July",
-    "title": "उलटबांसी",
-    "author": "",
-    "image_url": "/images/ebooks/ulat-bansi.png",
-    "book_url": "/ebooks/ulat-bansi.pdf"
-  },
-  {
-    "date": "20",
-    "year": "2025",
-    "month": "July",
     "title": "गुरु वंदना",
     "author": "satguru_sarvanand_ji",
     "image_url": "/images/ebooks/guru-vandana.png",
@@ -133,6 +124,51 @@
     "author": "",
     "image_url": "/images/ebooks/guru-prathnashtak.png",
     "book_url": "/ebooks/guru-prathnashtak.pdf"
+  },
+  {
+    "date": "20",
+    "year": "2025",
+    "month": "July",
+    "title": "उलटबांसी",
+    "author": "satguru_teoonram_ji",
+    "image_url": "/images/ebooks/ulat-bansi.png",
+    "book_url": "/ebooks/ulat-bansi.pdf"
+  },
+  {
+    "date": "25",
+    "year": "2025",
+    "month": "July",
+    "title": "ब्रह्मदर्शनी",
+    "author": "satguru_teoonram_ji",
+    "image_url": "/images/ebooks/brahma-darshani.png",
+    "book_url": "/ebooks/brahma-darshani.pdf"
+  },
+  {
+    "date": "25",
+    "year": "2025",
+    "month": "July",
+    "title": "अमरापुर वाणी",
+    "author": "satguru_teoonram_ji",
+    "image_url": "/images/ebooks/amrapur-vaani.png",
+    "book_url": "/ebooks/amrapur-vaani.pdf"
+  },
+  {
+    "date": "25",
+    "year": "2025",
+    "month": "July",
+    "title": "श्री प्रेम प्रकाश दोहावली",
+    "author": "satguru_teoonram_ji",
+    "image_url": "/images/ebooks/shri-prem-prakash-dohawali.png",
+    "book_url": "/ebooks/shri-prem-prakash-dohawali.pdf"
+  },
+  {
+    "date": "25",
+    "year": "2025",
+    "month": "July",
+    "title": "कवितावली छन्दावली",
+    "author": "satguru_teoonram_ji",
+    "image_url": "/images/ebooks/kavitavali-chhandavali.png",
+    "book_url": "/ebooks/kavitavali-chhandavali.pdf"
   },
   {
     "date": "19",
