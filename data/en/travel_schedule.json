@@ -1,12 +1,77 @@
 [
   {
-    "place": "Delhi",
+    "place": "Dharamshala",
     "event": "",
-    "date": "27 - 29\nJuly"
+    "date": "12 - 30\nAugust"
   },
   {
-    "place": "Prayagraj",
+    "place": "Kurukshetra",
+    "event": "Bhandara",
+    "date": "01 September"
+  },
+  {
+    "place": "Hathin",
     "event": "",
-    "date": "30 July\n-\n01 August"
+    "date": "02 September"
+  },
+  {
+    "place": "Bhopal",
+    "event": "",
+    "date": "03 September"
+  },
+  {
+    "place": "Ujjain",
+    "event": "",
+    "date": "04 September"
+  },
+  {
+    "place": "Indore",
+    "event": "",
+    "date": "05 - 06\nSeptember"
+  },
+  {
+    "place": "Delhi",
+    "event": "",
+    "date": "07 September"
+  },
+  {
+    "place": "Undecided",
+    "event": "",
+    "date": "08 - 13\nSeptember"
+  },
+  {
+    "place": "Jaipur",
+    "event": "Dadi Vasi Satsang",
+    "date": "14 - 16\nSeptember"
+  },
+  {
+    "place": "Beawar",
+    "event": "",
+    "date": "17 - 19\nSeptember"
+  },
+  {
+    "place": "Tiroda, Gondia",
+    "event": "",
+    "date": "20 - 22\nSeptember"
+  },
+  {
+    "place": "Balaghat",
+    "event": "",
+    "date": "23 - 24\nSeptember"
+  },
+  {
+    "place": "Seoni",
+    "event": "",
+    "date": "25 - 26\nSeptember"
+  },
+  {
+    "place": "Bhandara",
+    "event": "",
+    "date": "27 - 28\nSeptember"
+  },
+  {
+    "place": "Dhamtari, Dalli Rajhara",
+    "event": "",
+    "date": "29 September\n-\n01 October"
   }
 ]
