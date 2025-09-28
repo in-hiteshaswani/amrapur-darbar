@@ -1,37 +1,77 @@
 [
   {
-    "place": "Jaipur",
-    "event": "Dadi Vasi Satsang",
-    "date": "13 - 16\nSeptember"
-  },
-  {
-    "place": "Beawar",
-    "event": "",
-    "date": "17 - 19\nSeptember"
-  },
-  {
-    "place": "Tiroda, Gondia",
-    "event": "",
-    "date": "20 - 22\nSeptember"
-  },
-  {
-    "place": "Balaghat",
-    "event": "",
-    "date": "23 - 24\nSeptember"
-  },
-  {
-    "place": "Seoni",
-    "event": "",
-    "date": "25 - 26\nSeptember"
-  },
-  {
-    "place": "Bhandara",
-    "event": "",
-    "date": "27 - 28\nSeptember"
-  },
-  {
     "place": "Dhamtari, Dalli Rajhara",
     "event": "",
-    "date": "29 September\n-\n01 October"
+    "date": "29 - 30\nSeptember\n-\n01 October"
+  },
+  {
+    "place": "Bilaspur",
+    "event": "",
+    "date": "02 - 03\nOctober"
+  },
+  {
+    "place": "Korba",
+    "event": "",
+    "date": "04 - 05\nOctober"
+  },
+  {
+    "place": "Bhatapara",
+    "event": "",
+    "date": "06 - 08\nOctober"
+  },
+  {
+    "place": "Raipur",
+    "event": "",
+    "date": "09 - 11\nOctober"
+  },
+  {
+    "place": "Palwal",
+    "event": "",
+    "date": "12 - 14\nOctober"
+  },
+  {
+    "place": "Hathin",
+    "event": "",
+    "date": "15 October"
+  },
+  {
+    "place": "Pingawan",
+    "event": "",
+    "date": "16 - 17\nOctober"
+  },
+  {
+    "place": "Ajmer",
+    "event": "Dhanteras",
+    "date": "18 October"
+  },
+  {
+    "place": "Jaipur",
+    "event": "Diwali",
+    "date": "19 - 23\nOctober"
+  },
+  {
+    "place": "Travel",
+    "event": "",
+    "date": "23 October"
+  },
+  {
+    "place": "Pune",
+    "event": "",
+    "date": "24 - 26\nOctober"
+  },
+  {
+    "place": "Haridwar",
+    "event": "",
+    "date": "27 - 28\nOctober"
+  },
+  {
+    "place": "Travel",
+    "event": "",
+    "date": "29 October"
+  },
+  {
+    "place": "Jaipur",
+    "event": "Gopashtami",
+    "date": "30 October"
   }
 ]
