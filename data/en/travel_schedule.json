@@ -1,20 +1,5 @@
 [
   {
-    "place": "Bhatapara",
-    "event": "",
-    "date": "06 - 08\nOctober"
-  },
-  {
-    "place": "Raipur",
-    "event": "",
-    "date": "09 - 11\nOctober"
-  },
-  {
-    "place": "Palwal",
-    "event": "",
-    "date": "12 - 14\nOctober"
-  },
-  {
     "place": "Hathin",
     "event": "",
     "date": "15 October"
@@ -58,5 +43,80 @@
     "place": "Jaipur",
     "event": "Gopashtami",
     "date": "30 October"
+  },
+  {
+    "place": "Sikar",
+    "event": "",
+    "date": "31 October\n-\n01 November"
+  },
+  {
+    "place": "Kota",
+    "event": "",
+    "date": "02 - 05\nNovember"
+  },
+  {
+    "place": "Travel",
+    "event": "",
+    "date": "06 November"
+  },
+  {
+    "place": "Rajkot",
+    "event": "",
+    "date": "07 November"
+  },
+  {
+    "place": "Bhavnagar",
+    "event": "",
+    "date": "08 - 09\nNovember"
+  },
+  {
+    "place": "Jamnagar",
+    "event": "",
+    "date": "10 - 11\nNovember"
+  },
+  {
+    "place": "Gandhidham",
+    "event": "",
+    "date": "12 - 13\nNovember"
+  },
+  {
+    "place": "Travel",
+    "event": "",
+    "date": "14 November"
+  },
+  {
+    "place": "Delhi",
+    "event": "",
+    "date": "15 - 17\nNovember"
+  },
+  {
+    "place": "Gaya",
+    "event": "Pind Daan (Ancestral Offering)",
+    "date": "18 - 19\nNovember"
+  },
+  {
+    "place": "Kashi (Varanasi)",
+    "event": "",
+    "date": "20 - 22\nNovember"
+  },
+  {
+    "place": "Prayagraj",
+    "event": "",
+    "date": "23 - 25\nNovember"
+  },
+  {
+    "place": "Ayodhya",
+    "event": "",
+    "date": "26 November"
+  },
+  {
+    "place": "Lucknow",
+    "event": "",
+    "date": "27 - 28\nNovember"
+  },
+  {
+    "place": "Jaipur",
+    "event": "",
+    "date": "29 - 30\nNovember"
   }
 ]
