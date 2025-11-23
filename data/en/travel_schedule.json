@@ -1,35 +1,5 @@
 [
   {
-    "place": "Jamnagar",
-    "event": "",
-    "date": "10 - 11\nNovember"
-  },
-  {
-    "place": "Gandhidham",
-    "event": "",
-    "date": "12 - 13\nNovember"
-  },
-  {
-    "place": "Travel",
-    "event": "",
-    "date": "14 November"
-  },
-  {
-    "place": "Delhi",
-    "event": "",
-    "date": "15 - 17\nNovember"
-  },
-  {
-    "place": "Gaya",
-    "event": "Pind Daan (Ancestral Offering)",
-    "date": "18 - 19\nNovember"
-  },
-  {
-    "place": "Kashi (Varanasi)",
-    "event": "",
-    "date": "20 - 22\nNovember"
-  },
-  {
     "place": "Prayagraj",
     "event": "",
     "date": "23 - 25\nNovember"
@@ -48,5 +18,75 @@
     "place": "Jaipur",
     "event": "",
     "date": "29 - 30\nNovember"
+  },
+  {
+    "place": "Ajmer",
+    "event": "Gita Jayanti (Morning)",
+    "date": "01 December"
+  },
+  {
+    "place": "Bhilwara",
+    "event": "Satsang (Evening)",
+    "date": "01 December"
+  },
+  {
+    "place": "Nasirabad, Kekri",
+    "event": "",
+    "date": "02 - 03\nDecember"
+  },
+  {
+    "place": "Ahmedabad",
+    "event": "",
+    "date": "04 - 06\nDecember"
+  },
+  {
+    "place": "Surat",
+    "event": "",
+    "date": "07 - 09\nDecember"
+  },
+  {
+    "place": "Undecided",
+    "event": "",
+    "date": "10 - 31\nDecember"
+  },
+  {
+    "place": "Mumbai",
+    "event": "",
+    "date": "01 - 03\nJanuary"
+  },
+  {
+    "place": "Lonavala",
+    "event": "",
+    "date": "04 - 05\nJanuary"
+  },
+  {
+    "place": "Pimpri",
+    "event": "",
+    "date": "06 - 07\nJanuary"
+  },
+  {
+    "place": "Travel",
+    "event": "",
+    "date": "08\nJanuary"
+  },
+  {
+    "place": "Manila",
+    "event": "",
+    "date": "09 - 13\nJanuary"
+  },
+  {
+    "place": "Travel",
+    "event": "",
+    "date": "14\nJanuary"
+  },
+  {
+    "place": "Chennai",
+    "event": "",
+    "date": "15 - 16\nJanuary"
+  },
+  {
+    "place": "Rameshwaram Dham",
+    "event": "",
+    "date": "17 - 19\nJanuary"
   }
 ]
