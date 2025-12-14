@@ -1,5 +1,8 @@
 [
   {
+    "image_url": "/images/highlights/11-12-2025.jpeg"
+  },
+  {
     "image_url": "/images/highlights/30-11-2025-1.jpeg"
   },
   {
@@ -7,12 +10,6 @@
   },
   {
     "image_url": "/images/highlights/1.jpeg"
-  },
-  {
-    "image_url": "/images/highlights/1.1.jpeg"
-  },
-  {
-    "image_url": "/images/highlights/2.jpeg"
   },
   {
     "image_url": "/images/highlights/3.jpeg"
@@ -25,14 +22,5 @@
   },
   {
     "image_url": "/images/highlights/6.jpeg"
-  },
-  {
-    "image_url": "/images/highlights/7.jpeg"
-  },
-  {
-    "image_url": "/images/highlights/8.jpeg"
-  },
-  {
-    "image_url": "/images/highlights/9.jpeg"
   }
 ]
