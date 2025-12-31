@@ -1,25 +1,5 @@
 [
   {
-    "place": "Ujjain, Indore",
-    "event": "",
-    "date": "26 - 28\nDecember"
-  },
-  {
-    "place": "Mumbai",
-    "event": "",
-    "date": "29 December"
-  },
-  {
-    "place": "Ulhasnagar",
-    "event": "",
-    "date": "30 December"
-  },
-  {
-    "place": "Mumbai",
-    "event": "",
-    "date": "31 December"
-  },
-  {
     "place": "Mumbai",
     "event": "",
     "date": "01 - 03\nJanuary"
@@ -80,7 +60,7 @@
     "date": "26 January"
   },
   {
-    "place": "Amravati, Nashik etc.",
+    "place": "Amravati, Nashik",
     "event": "",
     "date": "27 - 30\nJanuary"
   },
