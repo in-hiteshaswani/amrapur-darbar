@@ -1,20 +1,5 @@
 [
   {
-    "place": "Gwalior",
-    "event": "",
-    "date": "13 - 16\nFebruary"
-  },
-  {
-    "place": "Undecided",
-    "event": "",
-    "date": "17 - 18\nFebruary"
-  },
-  {
-    "place": "Travel",
-    "event": "",
-    "date": "19 February"
-  },
-  {
     "place": "Dubai",
     "event": "",
     "date": "20 - 23\nFebruary"
@@ -23,5 +8,25 @@
     "place": "Travel",
     "event": "",
     "date": "24 February"
+  },
+  {
+    "place": "Haridwar",
+    "event": "",
+    "date": "25 - 26\nFebruary"
+  },
+  {
+    "place": "Jaipur / Sawai Madhopur",
+    "event": "",
+    "date": "27 February - 01 March"
+  },
+  {
+    "place": "Undecided",
+    "event": "",
+    "date": "02 - 07\nMarch"
+  },
+  {
+    "place": "Dharamshala, Himachal Pradesh",
+    "event": "Flag Ceremony & Bhandara",
+    "date": "08 March"
   }
 ]
