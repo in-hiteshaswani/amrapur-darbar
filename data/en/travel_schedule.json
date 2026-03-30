@@ -1,12 +1,27 @@
 [
   {
-    "place": "Jaipur / Sawai Madhopur",
-    "event": "",
-    "date": "27 February - 01 March"
+    "place": "Jaipur",
+    "event": "Chaitra Fair",
+    "date": "25 March -\n06 April"
   },
   {
-    "place": "Dharamshala, Himachal Pradesh",
-    "event": "Flag Ceremony & Bhandara",
-    "date": "08 March"
+    "place": "Ratlam",
+    "event": "",
+    "date": "07 - 08\nApril"
+  },
+  {
+    "place": "Ujjain",
+    "event": "",
+    "date": "09 - 10\nApril"
+  },
+  {
+    "place": "Indore",
+    "event": "",
+    "date": "11 - 15\nApril"
+  },
+  {
+    "place": "Bairagarh (Bhopal)",
+    "event": "",
+    "date": "16 - 17\nApril"
   }
 ]
