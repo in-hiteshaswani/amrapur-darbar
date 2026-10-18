@@ -1,7 +1,62 @@
 [
   {
+    "place": "Nashik",
+    "event": "",
+    "date": "18 - 19\nOctober"
+  },
+  {
+    "place": "Solapur",
+    "event": "",
+    "date": "20 - 21\nOctober"
+  },
+  {
+    "place": "Travel",
+    "event": "",
+    "date": "22\nOctober"
+  },
+  {
+    "place": "Haridwar",
+    "event": "",
+    "date": "23 - 24\nOctober"
+  },
+  {
+    "place": "Undecided",
+    "event": "",
+    "date": "25 - 28\nOctober"
+  },
+  {
+    "place": "Hisar",
+    "event": "",
+    "date": "29 - 30\nOctober"
+  },
+  {
+    "place": "Palwal",
+    "event": "",
+    "date": "31 October - 02\nNovember"
+  },
+  {
+    "place": "Hathin",
+    "event": "",
+    "date": "03\nNovember"
+  },
+  {
+    "place": "Pinangwan",
+    "event": "",
+    "date": "04 - 05\nNovember"
+  },
+  {
     "place": "Jaipur",
     "event": "",
-    "date": "26 - 30\nJuly"
+    "date": "06 - 10\nNovember"
+  },
+  {
+    "place": "Jaipur",
+    "event": "Chand",
+    "date": "11\nNovember"
+  },
+  {
+    "place": "Pune",
+    "event": "",
+    "date": "12 - 14\nNovember"
   }
 ]
