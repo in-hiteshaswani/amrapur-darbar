@@ -1,17 +1,12 @@
 [
   {
-    "place": "Jaipur",
-    "event": "",
-    "date": "06 - 10\nNovember"
-  },
-  {
-    "place": "Jaipur",
-    "event": "Chand",
-    "date": "11\nNovember"
-  },
-  {
     "place": "Pune",
     "event": "",
     "date": "12 - 14\nNovember"
+  },
+  {
+    "place": "Jaipur",
+    "event": "",
+    "date": "17\nNovember"
   }
 ]
